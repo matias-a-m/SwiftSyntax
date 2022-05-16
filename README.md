@@ -1,2 +1,2 @@
 # SwiftSyntax
-Estos documentos se enfocan en la sintaxis del lenguaje de programación Swift.  Donde se van a  aplicar los elementos esenciales de Swift.
+These documents focus on the syntax of the Swift programming language. Where to apply the essential elements of Swift in practical examples.
